@@ -22,3 +22,6 @@ for k in range(11,1,-1):     #prints from 11 to 1
 name="suhaib"
 for a in name:
     print(a)
+a=[1,2,3,4,5,6,7]
+for i in a:
+    print(i)
